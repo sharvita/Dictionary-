@@ -4,6 +4,9 @@
 #include "DictEntry.h"
 //calls on functions 
 int main() {
+	cout<<"-------------------------------------------------------------------------------------------------"<<endl;
+	cout<<"Dictionary"<<endl;//for the heading which gives it better looks
+	cout<<"-------------------------------------------------------------------------------------------------"<<endl;
 
 	list<DictEntry> words;
 	Dictionary object;
